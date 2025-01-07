@@ -1,4 +1,4 @@
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwPXlgsh3p_T56drpjq09nKlXw-WTp50Tg8xgS_O36SDKKM4gBZbgV4B5SqI9UqQYFc/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbytPhE1XM8XXgefrkE74PX4UDc1Fr9WgBe0H8MFXbH16SuqX0KAawvKid_pZYXgRetK/exec";
 if (localStorage.getItem('vishal_local')) {
     window.location.href = 'index.html';
 }
